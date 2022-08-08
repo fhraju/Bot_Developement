@@ -35,6 +35,6 @@ class Twitter_Bot():
 
 
 
-test = Twitter_Bot("Testing72571041", "R35409708")
+test = Twitter_Bot("Email", "Password")
 test.login()
 test.like_tweet("test")
